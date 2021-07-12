@@ -1,0 +1,147 @@
+
+[{
+	“BACKORDER”:”1”,
+	“ONHAND”:”2”,
+	“COST”:”1254.84”,
+	“MSRP”:”1300.00”,
+	“PRODUCT”:”TV”,
+	“DESCRIPTION”:”65 inch, Q60T QLED Smart 4K TV(2020) with 100% Colour   Volume, Dual Led, Quantum HDR, and Quantum Processor 4K”,
+	“BRAND”:”Samsung”
+},
+
+{
+	“BACKORDER”:”0”,
+	“ONHAND”:”3”,
+	“COST”:”599.99”,
+	“MSRP”:”625.99”,
+	“PRODUCT”:”TV”,
+	“DESCRIPTION”:”32 inch, Q50A QLED Smart TV(2021) with Compact QLED, Quantum Dot, and more dynamic HD”,
+	“BRAND”:”Samsung”
+},
+
+{
+	“BACKORDER”:”2”,
+	“ONHAND”:”2”,
+	“COST”:”5599.99”,
+	“MSRP”:”5669.99”,
+	“PRODUCT”:”TV”,
+	“DESCRIPTION”:”85 inch, Q80A QLED 4K Smart TV(2021) with Direct Full Array, Object Tracking Sound, and Quantum Processor 4K”,
+	“BRAND”:”Samsung”
+},
+
+{
+	“BACKORDER”:”3”,
+	“ONHAND”:”1”,
+	“COST”:”999.99”,
+	“MSRP”:”1050.99”,
+	“PRODUCT”:”Tablet”,
+	“DESCRIPTION”:”11 inch, Galaxy Tab S7 Wi-Fi with LTPS LCD, WQXGA(2560 x 1600), 500nit Brightness, 276 Pixels per inch, DCI-P3 Colour Range, Low Blue Light Certification”,
+	“BRAND”:”Samsung”
+},
+{
+	“BACKORDER”:”2”,
+	“ONHAND”:”2”,
+	“COST”:”1819.99”,
+	“MSRP”:”1900.99”,
+	“PRODUCT”:”Tablet”,
+	“DESCRIPTION”:”12.4 inch, Galaxy Tab S7+ with Super AMOLED, WQXGA(2560 x 1752), HDR10+ High Dynamic Range, 266 Pixels per inch, NTSC Colour Range, Eye Care Certification, 1000000:1 Contrast Ratio(Typical)”,
+	“BRAND”:”Samsung”
+},
+
+{
+	“BACKORDER”:”1”,
+	“ONHAND”:”2”,
+	“COST”:”1949.00”,
+	“MSRP”:”2098.99”,
+	“PRODUCT”:”Laptop”,
+	“DESCRIPTION”:”13.3 inch, MacBook Pro with Apple M1 Chip, 8-Core CPU, 7-Core GPU, 256 GB Storage”,
+	“BRAND”:”Apple”
+},
+
+{
+	“BACKORDER”:”0”,
+	“ONHAND”:”3”,
+	“COST”:”2599.99”,
+	“MSRP”:”2669.99”,
+	“PRODUCT”:”Laptop”,
+	“DESCRIPTION”:”16 inch, MacBook Pro with 2.6GHz 6-Core Intel Core i7, 512 GB SSD and 16GB of DDR4 memory, and 720p FaceTime HD Camera”,
+	“BRAND”:”Apple”
+},
+
+{
+	“BACKORDER”:”1”,
+	“ONHAND”:”3”,
+	“COST”:”1299.99”,
+	“MSRP”:”1350.99”,
+	“PRODUCT”:”Laptop”,
+	“DESCRIPTION”:”13.3 inch, MacBook Air with Apple M1 Chip, 8GB Unified Memory, 256 GB SSD, Backlit Magic Keyboard, Touch ID sensor, and 720p FaceTime HD Camera”,
+	“BRAND”:”Apple”
+},
+
+{
+	“BACKORDER”:”2”,
+	“ONHAND”:”2”,
+	“COST”:”399.99”,
+	“MSRP”:”425.99”,
+	“PRODUCT”:”Tablet”,
+	“DESCRIPTION”:”10.2 inch, iPad(7th Gen) with A12 Bionic Chip, 8MP/720p HD Camera, Nano-SIM, Touch ID, and 32.4 watt-hour rechargeable lithium-polymer battery”,
+	“BRAND”:”Apple”
+},
+{
+	“BACKORDER”:”4”,
+	“ONHAND”:”0”,
+	“COST”:”1199.99”,
+	“MSRP”:”1250.99”,
+	“PRODUCT”:”Tablet”,
+	“DESCRIPTION”:”11 inch, iPad Pro(5th Gen) with Apple M1 Chip, 128 GB, Pro Camera System Wide and Ultra Wide, 4k Video Recording, 12MP Ultra Wide 122 degree FOV Camera”,
+	“BRAND”:”Apple”
+},
+
+{
+	“BACKORDER”:”3”,
+	“ONHAND”:”1”,
+	“COST”:”3297.99”,
+	“MSRP”:”3399.99”,
+	“PRODUCT”:”TV”,
+	“DESCRIPTION”:”83 inch, LG C1 4K Smart OLED TV with self-lighting OLED, a9 Gen4 Processor 4K with AI Picture Pro and AI Sound Pro, Dolby Vision IQ and Dolby Atmos”,
+	“BRAND”:”LG”
+},
+
+{
+	“BACKORDER”:”1”,
+	“ONHAND”:”3”,
+	“COST”:”1399.99”,
+	“MSRP”:”1468.99”,
+	“PRODUCT”:”TV”,
+	“DESCRIPTION”:”75 inch, LG UP77 4K Smart UHD TV with Real 4K Display, webOS 6.0 and AI ThinQ w/ Magic Remote, and Active HDR, Filmmaker Mode, Bluetooth Sound Ready”,
+	“BRAND”:”LG”
+},
+
+{
+	“BACKORDER”:”2”,
+	“ONHAND”:”1”,
+	“COST”:”3200.99”,
+	“MSRP”:”3300.99”,
+	“PRODUCT”:”TV”,
+	“DESCRIPTION”:”88 inch, ZX LG Signature OLED 8K ThinQ AI TV with self-lighting OLED:Perfect Black, Intense Colour, Infinite Contrast, and a9 Gen3 AI-Processor 8K with AI Picture Pro and AI Sound Pro”,
+	“BRAND”:”LG”
+},
+
+{
+	“BACKORDER”:”0”,
+	“ONHAND”:”4”,
+	“COST”:”379.99”,
+	“MSRP”:”399.99”,
+	“PRODUCT”:”Monitor”,
+	“DESCRIPTION”:”31.5 inch, UHD 4K(3840x2160) Monitor with USB Type-C, HDR10 with DCI-P3 90%(Typ.), AMD FreeSync”,
+	“BRAND”:”LG”
+},
+{
+	“BACKORDER”:”2”,
+	“ONHAND”:”2”,
+	“COST”:”939.99”,
+	“MSRP”:”1199.99”,
+	“PRODUCT”:”Monitor”,
+	“DESCRIPTION”:”27 inch, UHD 4K IPS Monitor with VESA DisplayHDR 400, DCI-P3 95%(Typ.), AMD FreeSync”,
+	“BRAND”:”LG”
+}]
