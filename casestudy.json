@@ -99,12 +99,12 @@
 	"brand": "LG"
 }, {
 	"id":"12",
-	"backorder ": "1 ",
-	"onhand ": "3 ",
-	"cost ": "1399.99 ",
-	"msrp ": "1468.99 ",
-	"product ": "TV ",
-	"description ": "75 inch,LG UP77 4 K Smart UHD TV with Real 4 K Display,webOS 6.0 and AI ThinQ w / Magic Remote,and Active HDR,Filmmaker Mode,Bluetooth Sound Ready",
+	"backorder": "1",
+	"onhand": "3",
+	"cost": "1399.99",
+	"msrp": "1468.99",
+	"product": "TV",
+	"description": "75 inch,LG UP77 4 K Smart UHD TV with Real 4 K Display,webOS 6.0 and AI ThinQ w / Magic Remote,and Active HDR,Filmmaker Mode,Bluetooth Sound Ready",
 	"brand": "LG"
 }, {
 	"id":"13",
