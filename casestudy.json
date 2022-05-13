@@ -6,7 +6,8 @@
 	"msrp": "1300.00",
 	"product": "TV",
 	"description": "65 inch, Q60T QLED Smart 4K TV(2020) with 100% Colour Volume, Dual Led, Quantum HDR, and Quantum Processor 4K",
-	"brand": "Samsung"
+	"brand": "Samsung",
+	"graphicname":"samsung65inchtv.png"
 }, {
 	"id":"2",
 	"backorder": "0",
@@ -15,7 +16,8 @@
 	"msrp": "625.99",
 	"product": "TV",
 	"description": "32 inch, Q50A QLED Smart TV(2021) with Compact QLED, Quantum Dot, and more dynamic HD",
-	"brand": "Samsung"
+	"brand": "Samsung",
+	"graphicname":"samsung32inchtv.png"
 }, {
 	"id":"3",
 	"backorder": "2",
@@ -24,7 +26,8 @@
 	"msrp": "5669.99",
 	"product": "TV",
 	"description": "85 inch, Q80A QLED 4K Smart TV(2021) with Direct Full Array, Object Tracking Sound, and Quantum Processor 4K",
-	"brand": "Samsung"
+	"brand": "Samsung",
+	"graphicname":"samsung85inchtv.jpg"
 }, {
 	"id":"4",
 	"backorder": "3",
@@ -33,7 +36,8 @@
 	"msrp": "1050.99",
 	"product": "Tablet",
 	"description": "11 inch, Galaxy Tab S7 Wi-Fi with LTPS LCD, WQXGA(2560 x 1600), 500nit Brightness, 276 Pixels per inch, DCI-P3 Colour Range, Low Blue Light Certification",
-	"brand": "Samsung"
+	"brand": "Samsung",
+	"graphicname":"samsungs7.png"
 }, {
 	"id":"5",
 	"backorder": "2",
@@ -42,7 +46,8 @@
 	"msrp": "1900.99",
 	"product": "Tablet",
 	"description": "12.4 inch, Galaxy Tab S7+ with Super AMOLED, WQXGA(2560 x 1752), HDR10+ High Dynamic Range, 266 Pixels per inch, NTSC Colour Range, Eye Care Certification, 1000000:1 Contrast Ratio(Typical)",
-	"brand": "Samsung"
+	"brand": "Samsung",
+	"graphicname":"samsungs7plus.png"
 }, {
 	"id":"6",
 	"backorder": "1",
@@ -51,7 +56,8 @@
 	"msrp": "2098.99",
 	"product": "Laptop",
 	"description": "13.3 inch, MacBook Pro with Apple M1 Chip, 8-Core CPU, 7-Core GPU, 256 GB Storage",
-	"brand": "Apple"
+	"brand": "Apple",
+	"graphicname":"macbookpro1.jpg"
 }, {
 	"id":"7",
 	"backorder": "0",
@@ -60,7 +66,8 @@
 	"msrp": "2669.99",
 	"product": "Laptop",
 	"description": "16 inch, MacBook Pro with 2.6GHz 6-Core Intel Core i7, 512 GB SSD and 16GB of DDR4 memory, and 720p FaceTime HD Camera",
-	"brand": "Apple"
+	"brand": "Apple",
+	"graphicname":"macbookpro2.jpg"
 }, {
 	"id":"8",
 	"backorder": "1",
@@ -69,7 +76,8 @@
 	"msrp": "1350.99",
 	"product": "Laptop",
 	"description": "13.3 inch, MacBook Air with Apple M1 Chip, 8GB Unified Memory, 256 GB SSD, Backlit Magic Keyboard, Touch ID sensor, and 720p FaceTime HD Camera",
-	"brand": "Apple"
+	"brand": "Apple",
+	"graphicname":"macbookair.jpg"
 }, {
 	"id":"9",
 	"backorder": "2",
@@ -78,7 +86,8 @@
 	"msrp": "425.99",
 	"product": "Tablet",
 	"description": "10.2 inch, iPad(7th Gen) with A12 Bionic Chip, 8MP/720p HD Camera, Nano-SIM, Touch ID, and 32.4 watt-hour rechargeable lithium-polymer battery",
-	"brand": "Apple"
+	"brand": "Apple",
+	"graphicname":"ipad.jpg"
 }, {
 	"id":"10",
 	"backorder": "4",
@@ -87,7 +96,8 @@
 	"msrp": "1250.99",
 	"product": "Tablet",
 	"description": "11 inch, iPad Pro(5th Gen) with Apple M1 Chip, 128 GB, Pro Camera System Wide and Ultra Wide, 4k Video Recording, 12MP Ultra Wide 122 degree FOV Camera",
-	"brand": "Apple"
+	"brand": "Apple",
+	"graphicname":"ipadpro.png"
 }, {
 	"id":"11",
 	"backorder": "3",
@@ -96,7 +106,8 @@
 	"msrp": "3399.99",
 	"product": "TV",
 	"description": "83 inch,LG C1 4 K Smart OLED TV with self - lighting OLED,a9 Gen4 Processor 4 K with AI Picture Pro and AI Sound Pro,Dolby Vision IQ and Dolby Atmos",
-	"brand": "LG"
+	"brand": "LG",
+	"graphicname":"lg83inchtv.jpg"
 }, {
 	"id":"12",
 	"backorder": "1",
@@ -105,7 +116,8 @@
 	"msrp": "1468.99",
 	"product": "TV",
 	"description": "75 inch,LG UP77 4 K Smart UHD TV with Real 4 K Display,webOS 6.0 and AI ThinQ w / Magic Remote,and Active HDR,Filmmaker Mode,Bluetooth Sound Ready",
-	"brand": "LG"
+	"brand": "LG",
+	"graphicname":"lg75inchtv.jpg"
 }, {
 	"id":"13",
 	"backorder": "2",
@@ -114,7 +126,8 @@
 	"msrp": "3300.99",
 	"product": "TV",
 	"description": "88 inch, ZX LG Signature OLED 8K ThinQ AI TV with self-lighting OLED:Perfect Black, Intense Colour, Infinite Contrast, and a9 Gen3 AI-Processor 8K with AI Picture Pro and AI Sound Pro",
-	"brand": "LG"
+	"brand": "LG",
+	"graphicname":"lg88inchtv.jpg"
 }, {
 	"id":"14",
 	"backorder": "0",
@@ -123,7 +136,8 @@
 	"msrp": "399.99",
 	"product": "Monitor",
 	"description": "31.5 inch, UHD 4K(3840x2160) Monitor with USB Type-C, HDR10 with DCI-P3 90%(Typ.), AMD FreeSync",
-	"brand": "LG"
+	"brand": "LG",
+	"graphicname":"lg315inchmonitor.jpg"
 }, {
 	"id":"15",
 	"backorder": "2",
@@ -132,5 +146,6 @@
 	"msrp": "1199.99",
 	"product": "Monitor",
 	"description": "27 inch, UHD 4K IPS Monitor with VESA DisplayHDR 400, DCI-P3 95%(Typ.), AMD FreeSync",
-	"brand": "LG"
+	"brand": "LG",
+	"graphicname":"lg27inchmonitor.jpg"
 }]
